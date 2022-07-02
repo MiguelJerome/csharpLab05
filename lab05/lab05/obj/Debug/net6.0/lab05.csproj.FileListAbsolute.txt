@@ -1,0 +1,15 @@
+C:\csharpLab05\lab05\lab05\bin\Debug\net6.0\lab05.exe
+C:\csharpLab05\lab05\lab05\bin\Debug\net6.0\lab05.deps.json
+C:\csharpLab05\lab05\lab05\bin\Debug\net6.0\lab05.runtimeconfig.json
+C:\csharpLab05\lab05\lab05\bin\Debug\net6.0\lab05.dll
+C:\csharpLab05\lab05\lab05\bin\Debug\net6.0\lab05.pdb
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.csproj.AssemblyReference.cache
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.AssemblyInfoInputs.cache
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.AssemblyInfo.cs
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.csproj.CoreCompileInputs.cache
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.dll
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\refint\lab05.dll
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.pdb
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\lab05.genruntimeconfig.cache
+C:\csharpLab05\lab05\lab05\obj\Debug\net6.0\ref\lab05.dll
