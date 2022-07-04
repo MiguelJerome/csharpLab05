@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Runtime.CompilerServices;
 
 class Point
     {
@@ -72,6 +73,26 @@ class Point
             }
 
         }
+
+        public int Abcisse
+        {
+            get { return this._abcisse; } // read
+            set
+            {  
+                _abcisse = this.VerifierIntervalle(value); // write
+            }
+
+        }
+
+        public int Ordonne
+        {
+            get { return this._ordonne; } // read
+            set
+            {
+                 _ordonne = this.VerifierIntervalle(value); // write
+            }
+
+    }
 
 
 

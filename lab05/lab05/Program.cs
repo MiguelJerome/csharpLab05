@@ -24,4 +24,23 @@ p5.Egualite(p6);
 Console.WriteLine();
 Console.WriteLine($"Les points p5 et p7 : ");
 p5.Egualite(p7);
+Console.WriteLine();
 
+/***************** Rectangle ************************/
+
+var r1 = new Rectangle(-3,6,4,2);
+Console.WriteLine();
+Console.WriteLine($"Le perimetre du rectangle : {r1.Perimetre()} ");
+Console.WriteLine();
+Console.WriteLine($"La surface du rectangle : {r1.Surface()}");
+Console.WriteLine();
+Console.WriteLine($"Le point p1 {r1.Appartenir(p1)} appartient");
+
+var r2 = new Rectangle(-9,2,3,3);
+
+Console.WriteLine();
+
+
+Console.WriteLine($"Le rectangle r2 {r1.Appartenir(r2)} appartient le rectangle r1");
+Console.WriteLine();
+Console.WriteLine(r1.ToString());
